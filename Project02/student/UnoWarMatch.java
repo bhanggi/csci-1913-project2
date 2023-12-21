@@ -1,6 +1,5 @@
 // Baraka Hanggi
 // Project02
-// UnoWarMatch.java
 
 package student;
 

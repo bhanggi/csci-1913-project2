@@ -1,6 +1,5 @@
 // Baraka Hanggi
 // Project02
-// Hand.java
 
 package student;
 

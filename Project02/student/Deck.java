@@ -1,6 +1,5 @@
 // Baraka Hanggi
 // Project02
-// Deck.java
 
 package student;
 import java.util.Random;
